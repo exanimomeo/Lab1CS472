@@ -1,0 +1,5 @@
+Java eightpuzzle.java f:140173.txt alg:h2
+Total nodes generated: 3827
+Total time taken: 2sec 576microSec
+Path length: 25
+Path: ULLDRRULLDRDLURRDLLURRULL
