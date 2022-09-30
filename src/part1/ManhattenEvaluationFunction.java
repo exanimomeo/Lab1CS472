@@ -14,10 +14,10 @@ public class ManhattenEvaluationFunction extends EvaluationFunction<State,Direct
 		return distance;
 	}
 	
-	private static double valDistFromDesired(int hor, int ver, int num) {
+	public static double valDistFromDesired(int hor, int ver, int num) {
 		double distance = 0;
-		distance += Math.abs(hor - ((int) num%3)); //adds the number's horizontal distance from desired
+		distance += Math.abs(hor - ((int) (num-1)%3)); //adds the number's horizontal distance from desired
 		distance += Math.abs(ver - ((int) num/3)); //adds the number's vertical distance from desired
-		return 0.f;
+		return distance;
 	}
 }

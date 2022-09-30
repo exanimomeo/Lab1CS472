@@ -83,8 +83,11 @@ public class TreeSearch<S, A> extends QueueSearch<S, A> {
 			// expand the chosen node and add the successor nodes to the frontier
 			for (Node<S, A> successor : nodeFactory.getSuccessors(node, problem)) {
 				addToFrontier(successor);
-				eightpuzzle.numNodes++;
-				if (earlyGoalTest && problem.testSolution(successor) || System.currentTimeMillis() >= eightpuzzle.maxTime)
+				//eightpuzzle.numNodes++;
+				if (System.currentTimeMillis() >= eightpuzzle.maxTime) {
+					return Optional.empty();
+				}
+				if (earlyGoalTest && problem.testSolution(successor))
 					//End state
 					return asOptional(successor);
 			}

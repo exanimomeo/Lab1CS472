@@ -1,0 +1,5 @@
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S4.txt alg:h3
+Total nodes generated: Timed Out
+Total time taken: >15 minutes
+Path length: Timed Out
+Path: Timed Out

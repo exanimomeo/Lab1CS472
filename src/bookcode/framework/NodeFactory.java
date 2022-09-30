@@ -51,6 +51,7 @@ public class NodeFactory<S, A> {
 	 */
 	public Node<S, A> createNode(S state, Node<S, A> parent, A action, double stepCost) {
 		Node<S, A> p = useParentLinks ? parent : null;
+		eightpuzzle.numNodes++;
 		return new Node<>(state, p, action, parent.getPathCost() + stepCost);
 	}
 

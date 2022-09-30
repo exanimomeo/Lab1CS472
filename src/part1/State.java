@@ -61,8 +61,10 @@ public class State {
 			if (getVal(i) == 0) {
 				hor = i % 3;
 				ver = i / 3;
+				break;
 			}
 		}
+		//eightpuzzle.numNodes++;
 		switch (d) {
 		case UP:
 			if (ver != 0) {

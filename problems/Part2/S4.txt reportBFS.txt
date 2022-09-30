@@ -1,0 +1,5 @@
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S4.txt alg:BFS
+Total nodes generated: Time Out
+Total time taken: Time Out
+Path length: Time Out
+Path: Time Out

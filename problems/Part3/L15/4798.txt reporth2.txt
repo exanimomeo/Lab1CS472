@@ -1,0 +1,5 @@
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part3/L15/4798.txt alg:h2
+Total nodes generated: 49476
+Total time taken: 127 sec 291 milliSec
+Path length: 15
+Path: DRULLDRURDLLDRR

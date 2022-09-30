@@ -18,6 +18,6 @@ public class MisplacedEvaluationFunction extends EvaluationFunction<State,Direct
 		double distance = 0;
 		distance += Math.abs(hor - ((int) num%3)); //adds the number's horizontal distance from desired
 		distance += Math.abs(ver - ((int) num/3)); //adds the number's vertical distance from desired
-		return 0.f;
+		return distance;
 	}
 }

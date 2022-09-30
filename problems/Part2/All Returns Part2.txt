@@ -1,0 +1,123 @@
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S1.txt alg:BFS
+Total nodes generated: Time Out
+Total time taken: Time Out
+Path length: Time Out
+Path: Time Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S1.txt alg:h1
+Total nodes generated: 27667595
+Total time taken: 60 sec 1 microSec
+Path length: 18
+Path: URDUDURDLURLDRLLRU
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S1.txt alg:h2
+Total nodes generated: 10267610
+Total time taken: 17 sec 584 microSec
+Path length: 24
+Path: UURDDRULLDRRULLURRDLLDRR
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S1.txt alg:h3
+Total nodes generated: Time Out
+Total time taken: Time Out
+Path length: Time Out
+Path: Time Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S1.txt alg:IDS
+Total nodes generated: Time Out
+Total time taken: Time Out
+Path length: Time Out
+Path: Time Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S2.txt alg:BFS
+Total nodes generated: Time Out
+Total time taken: Time Out
+Path length: Time Out
+Path: Time Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S2.txt alg:h1
+Total nodes generated: Time Out
+Total time taken: Time Out
+Path length: Time Out
+Path: Time Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S2.txt alg:h2
+Total nodes generated: 50272
+Total time taken: 0 sec 121 microSec
+Path length: 20
+Path: UURRDLDRULLURRDLLDRR
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S2.txt alg:h3
+Total nodes generated: Time Out
+Total time taken: Time Out
+Path length: Time Out
+Path: Time Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S2.txt alg:IDS
+Total nodes generated: 779162624
+Total time taken: 56 sec 384 microSec
+Path length: 20
+Path: UURRDLDRULLURRDLLDRR
+
+Java eightpuzzle.java j:C/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S3.txt alg:any
+Unsolvable
+Inversion Count: 15
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S4.txt alg:BFS
+Total nodes generated: Time Out
+Total time taken: Time Out
+Path length: Time Out
+Path: Time Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S4.txt alg:h1
+Total nodes generated: Timed Out
+Total time taken: >15 min
+Path length: Timed Out
+Path: Timed Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S4.txt alg:h2
+Total nodes generated: Timed Out 
+Total time taken: >15 min
+Path length: Timed Out
+Path: Timed Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S4.txt alg:h3
+Total nodes generated: Timed Out
+Total time taken: >15 minutes
+Path length: Timed Out
+Path: Timed Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S1.txt alg:IDS
+Total nodes generated: Time Out
+Total time taken: Time Out
+Path length: Time Out
+Path: Time Out
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S5.txt alg:BFS
+Total nodes generated: 1006
+Total time taken: 0 sec 14 microSec
+Path length: 6
+Path: LURDDR
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S5.txt alg:h1
+Total nodes generated: 10791
+Total time taken: 0 sec 45 microSec
+Path length: 6
+Path: LURDDR
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S5.txt alg:h2
+Total nodes generated: 155
+Total time taken: 0 sec 17 microSec
+Path length: 6
+Path: LURDDR
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S5.txt alg:h3
+Total nodes generated: 8502
+Total time taken: 0 sec 43 microSec
+Path length: 6
+Path: LURDDR
+
+Java eightpuzzle.java f:C:/Users/lumps17/Desktop/Lab1/Lab1CS472/problems/Part2/S5.txt alg:IDS
+Total nodes generated: 1542
+Total time taken: 0 sec 13 microSec
+Path length: 6
+Path: LURDDR
